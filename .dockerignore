@@ -1,5 +1,28 @@
+# Ignore node modules and logs
 node_modules
 npm-debug.log
-Dockerfile
-docker-compose.yml
+yarn-debug.log
+yarn-error.log
+
+# Ignore Git and environment files
+.git
+.gitignore
+.env
+.env.local
+.env.development
+.env.test
+.env.production
+
+# Ignore IDE/editor settings
+.vscode
+.idea
+
+# Ignore Docker config and build artifacts
+Dockerfile*
+docker-compose*
 .dockerignore
+
+# Ignore build artifacts (if accidentally present)
+.next
+out
+coverage
