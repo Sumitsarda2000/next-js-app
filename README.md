@@ -42,3 +42,7 @@ npm test
 | `npm run build`     | Compiles the Next.js app for production (`next build`)                  | Used to test the production build            |
 | `npm run test`      | Runs unit tests using Jest (`jest`)                                     | Validates application functionality          |
 | `npm run dev`       | Starts local development server (`next dev`) with hot reloading         | Use during active development (optional)     |
+
+
+## Sample commit   
+## ssample 2
