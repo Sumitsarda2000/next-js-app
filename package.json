@@ -1,9 +1,12 @@
 {
+  "name": "next-js-app",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
+    "export": "next export",
     "test": "jest",
     "test-watch": "jest --watch",
     "test:ci": "jest --ci"
