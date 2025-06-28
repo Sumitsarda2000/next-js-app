@@ -1,8 +1,8 @@
 name: Node.js CI
 
-on:
-  push:
-    branches: [ "sumitfeature1" ]
+###on:
+###  push:
+###    branches: [ "sumitfeature1" ]
 
 jobs:
   build:
