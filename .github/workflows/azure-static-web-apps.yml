@@ -3,7 +3,7 @@ name: Azure Static Web Apps CI/CD
 on:
   push:
     branches:
-      - sumitfeature1  # change if you're using a different branch
+      - failed-test-case
 
 jobs:
   build_and_deploy:
