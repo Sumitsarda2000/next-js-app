@@ -1,8 +1,8 @@
 name: Deploy
 
-on:
-  push:
-    branches: [ "sumitfeature1" ]
+##on:
+##  push:
+##    branches: [ "sumitfeature1" ]
 
 jobs:
   Deploy:
