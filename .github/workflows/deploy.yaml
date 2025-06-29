@@ -1,8 +1,7 @@
 name: Deploy
 
-##on:
-##  push:
-##    branches: [ "sumitfeature1" ]
+on:
+  workflow_dispatch:
 
 jobs:
   Deploy:
