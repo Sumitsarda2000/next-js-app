@@ -7,7 +7,7 @@ export default function Page() {
     <main style={{ padding: '2rem', fontFamily: 'sans-serif', lineHeight: '1.6' }}>
       <h1 style={{ fontSize: '2.5rem', color: '#007acc' }}>👋 Hello, I'm Sumit</h1>
       <p style={{ fontSize: '1.25rem' }}>
-        I’m an <strong>Azure DevOps Engineer</strong> with hands-on experience in CI/CD, GitHub Actions, Docker, Kubernetes, and Azure Static Web Apps.
+        As a DevOps Engineer, I bridge the gap between development and operations by bringing speed, reliability, and transparency to software delivery. I’m a fast learner who thrives in dynamic environments, always striving to boost team velocity and maximize cloud efficiency.
       </p>
 
       <h2 style={{ marginTop: '2rem' }}>🚀 What this App Shows:</h2>
