@@ -19,9 +19,10 @@ export default function Page() {
 
       <h2 style={{ marginTop: '2rem' }}>📬 Let's Connect</h2>
       <p>
-        <a href="https://github.com/Sumit" target="_blank" rel="noopener noreferrer">GitHub</a> |{" "}
-        <a href="https://linkedin.com/in/Sumit" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+       <a href="https://github.com/Sumitsarda2000" target="_blank" rel="noopener noreferrer">GitHub</a> |{" "}
+      <a href="https://www.linkedin.com/in/sumit-sarda-ado2000" target="_blank" rel="noopener noreferrer">LinkedIn</a>
       </p>
+
     </main>
   );
 }
