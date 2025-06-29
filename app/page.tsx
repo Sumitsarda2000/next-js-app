@@ -1,7 +1,27 @@
 export const metadata = {
-  title: "Sumit Ka App",
+  title: "Sumit | Azure DevOps Engineer",
 };
 
 export default function Page() {
-  return <h1>Hello Sumit Sir Appka App mast chal rha hai 1234</h1>;
+  return (
+    <main style={{ padding: '2rem', fontFamily: 'sans-serif', lineHeight: '1.6' }}>
+      <h1 style={{ fontSize: '2.5rem', color: '#007acc' }}>👋 Hello, I'm Sumit</h1>
+      <p style={{ fontSize: '1.25rem' }}>
+        I’m an <strong>Azure DevOps Engineer</strong> with hands-on experience in CI/CD, GitHub Actions, Docker, Kubernetes, and Azure Static Web Apps.
+      </p>
+
+      <h2 style={{ marginTop: '2rem' }}>🚀 What this App Shows:</h2>
+      <ul>
+        <li>✅ Next.js App deployed using Azure Static Web Apps</li>
+        <li>✅ CI/CD configured using GitHub Actions</li>
+        <li>✅ Production-ready static export</li>
+      </ul>
+
+      <h2 style={{ marginTop: '2rem' }}>📬 Let's Connect</h2>
+      <p>
+        <a href="https://github.com/Sumit" target="_blank" rel="noopener noreferrer">GitHub</a> |{" "}
+        <a href="https://linkedin.com/in/Sumit" target="_blank" rel="noopener noreferrer">LinkedIn</a>
+      </p>
+    </main>
+  );
 }
